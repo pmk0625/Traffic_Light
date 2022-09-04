@@ -14,6 +14,9 @@
 
 ![image](https://user-images.githubusercontent.com/36967168/188297329-7e3a17fa-a129-4814-a5f5-27918fa77344.png)
 
+![image](https://user-images.githubusercontent.com/36967168/188297397-45b9a333-208d-4570-9c69-5f26cea3a279.png)
+
+![image](https://user-images.githubusercontent.com/36967168/188297404-f54ecde2-c137-4bf5-a05a-dc4ae16136af.png)
 
 ## This is an example of Crosswalk Lights for Pedestrians
 
